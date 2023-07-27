@@ -1,0 +1,20 @@
+{
+  "name": "mineinfo-old",
+  "version": "1.2.7",
+  "description": "Powerfull lib to get minecraft server info from 4 free web api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DinacoStudio/mine-info-old.git"
+  },
+  "author": "dinaco",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs": "^0.0.1-security",
+    "needle": "^3.2.0"
+  }
+}

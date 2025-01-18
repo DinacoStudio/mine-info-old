@@ -1,6 +1,6 @@
 {
     "name": "mineinfo-old",
-    "version": "1.2.10",
+    "version": "1.2.11",
     "description": "Powerfull lib to get minecraft server info from 4 free web api",
     "main": "index.js",
     "scripts": {
